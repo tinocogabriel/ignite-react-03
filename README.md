@@ -1,7 +1,5 @@
 # 💸 DT Money
 
-![DT Money]
-
 ## 📋 Sumário
 
 - [Sobre](#sobre)
