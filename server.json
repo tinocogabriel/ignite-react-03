@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-07-20T20:37:42.513Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-07-20T10:37:42.513Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Edução",
+      "price": 1980,
+      "createdAt": "2024-07-20T10:37:42.513Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-07-22T12:29:27.489Z",
+      "id": 4
+    },
+    {
+      "description": "Teste",
+      "price": 100,
+      "category": "Teste",
+      "type": "outcome",
+      "createdAt": "2024-07-22T12:30:42.824Z",
+      "id": 5
+    },
+    {
+      "description": "Teste",
+      "price": 100,
+      "category": "Teste",
+      "type": "income",
+      "createdAt": "2024-07-22T12:56:22.119Z",
+      "id": 6
+    },
+    {
+      "description": "PS5",
+      "price": 3800,
+      "category": "Games",
+      "type": "outcome",
+      "createdAt": "2024-07-22T12:56:38.161Z",
+      "id": 7
+    },
+    {
+      "description": "Teste 2",
+      "price": 100,
+      "category": "Teste",
+      "type": "income",
+      "createdAt": "2024-07-22T14:14:52.579Z",
+      "id": 8
+    }
+  ]
+}
