@@ -1,6 +1,6 @@
 # 💸 DT Money
 
-![DT Money](https://yourimageurl.com/your-image.png)
+![DT Money]
 
 ## 📋 Sumário
 
